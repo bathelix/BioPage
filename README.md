@@ -1,2 +1,3 @@
 # BioPage
-Simple Bio Page 
+Just an exercise, not real.
+
